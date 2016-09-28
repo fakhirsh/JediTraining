@@ -1,7 +1,0 @@
-/TeX_files/*.aux
-/TeX_files/*.log
-/TeX_files/*.gz
-/TeX_files/*.pdf
-*.aux
-*.log
-*.gz
