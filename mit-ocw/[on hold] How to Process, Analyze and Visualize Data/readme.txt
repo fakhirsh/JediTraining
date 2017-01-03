@@ -6,9 +6,10 @@ http://ocw.mit.edu/resources/res-6-009-how-to-process-analyze-and-visualize-data
 
 Course Start:
 -------------
-Tuesday 2nd August, 2016, 5:14 PM GMT+5
+Thursday 29th December, 2016, 10:52 PM GMT+5
 
 Course End:
 -----------
+
 
 Total hours spent:  
