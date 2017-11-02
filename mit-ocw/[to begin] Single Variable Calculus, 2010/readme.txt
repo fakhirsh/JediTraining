@@ -1,7 +1,7 @@
 
 Single Variable Calculus, Fall 2010
 
-hhttp://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/
+https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/
 
 
 Course Start:
