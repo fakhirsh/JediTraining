@@ -1,5 +1,18 @@
 \documentclass[]{article}
 
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{hyperref}
+\usepackage{color}
+\usepackage{soul}
+
+\DeclareRobustCommand{\hlcyan}[1]{{\sethlcolor{cyan}\hl{#1}}}
+\DeclareRobustCommand{\hlgreen}[1]{{\sethlcolor{green}\hl{#1}}}
+\DeclareRobustCommand{\hlred}[1]{{\sethlcolor{red}\hl{#1}}}
+\DeclareRobustCommand{\hlyellow}[1]{{\sethlcolor{yellow}\hl{#1}}}
+\DeclareRobustCommand{\hlorange}[1]{{\sethlcolor{orange}\hl{#1}}}
+
+
 %opening
 \title{Session 1}
 \author{Fakhir}
@@ -46,7 +59,7 @@
 	
 	\item \begin{enumerate}
 		\item No, it was a range in each case. Maybe I didn't understand the problem?? Maybe I did it correctly \textit{(just reviewed the solutions)}.
-		\item When the curve tends to be pretty ``straight line-ish'' \textit{($\leftarrow$ Got this one wrong. When the curve is very ``bendy'' or ``curvy'' then $\Delta x$ has to be pretty close to $0$ in order for the slopes to be equal)}.
+		\item When the curve tends to be pretty ``straight line-ish'' \hlred{\textit{($\leftarrow$ Got this one wrong. When the curve is very ``bendy'' or ``curvy'' then $\Delta x$ has to be pretty close to $0$ in order for the slopes to be equal)}}.
 	\end{enumerate}
 
 \end{enumerate}
