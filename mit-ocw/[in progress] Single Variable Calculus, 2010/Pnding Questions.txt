@@ -1,0 +1,14 @@
+
+Single Variable Calculus, Fall 2010
+
+https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/
+
+
+Questions that I had in my mind while doing this course:
+----------------------------------------------------------
+
+Q1) How do we cut a cone using a plane so that it gives us the hyperbola "1/x" (because this particular curve has a weird skewed shape. Pertty hard to imagine the resulting cross-section unless the cones are themselves skewed somehow.)
+
+Q2) The "difference quotient" formula for differentiation has delta x or dx in the denominator where dx -> 0. We can't just put dx to 0 "INITIALLY" because that'll give us 0/0. But after simplifying the formla at the very last step we plug dx to 0 and everything works out magically ! So What is happening here? Is the simplification process changing anything? (eventhough it shouldn't)
+
+
