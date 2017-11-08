@@ -18,6 +18,8 @@ Hours spent (detail):
 2.00 h -- 4 Nov 2017 [1. Differentiation --> Session 1]
 0.67 h -- 4 Nov 2017 [1. Differentiation --> Session 2 - Clip 1]
 0.25 h -- 8 Nov 2017 [1. Differentiation --> Session 2 - Clip 2,3]
+1.50 h -- 8 Nov 2017 [1. Differentiation --> Session 2 - Clip 4, problem set]
+
 
 Total hours spent:  
 ------------------
