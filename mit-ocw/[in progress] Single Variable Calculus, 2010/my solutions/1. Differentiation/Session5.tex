@@ -1,0 +1,82 @@
+\documentclass[]{article}
+
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{hyperref}
+\usepackage{color}
+\usepackage{soul}
+\usepackage{amsmath}
+
+
+\DeclareRobustCommand{\hlcyan}[1]{{\sethlcolor{cyan}\hl{#1}}}
+\DeclareRobustCommand{\hlgreen}[1]{{\sethlcolor{green}\hl{#1}}}
+\DeclareRobustCommand{\hlred}[1]{{\sethlcolor{red}\hl{#1}}}
+\DeclareRobustCommand{\hlyellow}[1]{{\sethlcolor{yellow}\hl{#1}}}
+\DeclareRobustCommand{\hlorange}[1]{{\sethlcolor{orange}\hl{#1}}}
+
+
+%opening
+\title{Session 5}
+\author{Fakhir}
+
+\begin{document}
+
+\maketitle
+
+\section*{Solutions}
+
+\begin{enumerate}
+	\item Plot $\sqrt{x}$. Observing it gives us a one sided limit i.e limit from the right. It is a continuous function (how?) but it is not defined for $x<0$:
+	$$\lim_{x\to0^{+}}\sqrt{x} = 0$$
+	$$\lim_{x\to0^{-}}\sqrt{x} = invalid$$ 
+	
+	\item Visualizing the graph gives us two sided limit. This function is not defined at $x=-1$:
+	$$\lim_{x\to-1^{+}}\frac{1}{x+1} = +\infty$$
+	$$\lim_{x\to-1^{-}}\frac{1}{x+1} = -\infty$$ 
+	
+	\item First by visualizing the graph (and then bit cheating by plotting it in maxima) gives us two sided limit. This function is not defined at $x=1$:
+	$$\lim_{x\to1^{+}}\frac{1}{(x-1)^{4}} = +\infty$$
+	$$\lim_{x\to1^{-}}\frac{1}{(x-1)^{4}} = +\infty$$
+	
+	Since in this case $\lim_{x\to1^{-}}\frac{1}{(x-1)^{4}} = \lim_{x\to1^{+}}\frac{1}{(x-1)^{4}} $ \\
+	
+	We can simply say:
+	
+	$$\lim_{x\to1}\frac{1}{(x-1)^{4}} = +\infty$$
+	
+	\item First by visualizing the graph (couldn't draw on maxima) gives us two sided limit. This function appears to be continuous at all points:
+	$$\lim_{x\to0^{+}}|\sin{x}| = 0$$
+	$$\lim_{x\to0^{-}}|\sin{x}| = 0$$
+	
+	Again we can say:
+	
+	$$\lim_{x\to0}|\sin{x}| = 0$$
+
+	\item Couldn't plot it in maxima. In my opinion it is a piece wise graph given by:
+	\[
+	f(x)= 
+	\begin{cases}
+	1, & \text{if } x>0 \\
+	-1,& \text{if } x<0 \\
+	undefined, & \text{if } x=0
+	\end{cases}
+	\]
+	
+	So this implies that it has a two sided limit as follows:
+	$$\lim_{x\to0^{+}}\frac{|x|}{x} = +1$$
+	$$\lim_{x\to0^{-}}\frac{|x|}{x} = -1$$ \\~\\
+	
+\end{enumerate}
+
+\hlred{Extra questions that need to be answered:}
+\begin{enumerate}
+	\item I didn't quite understand what he means by ``one sided limit'' in the MiT solutions file. In some places (Q4 and Q5) he has used ``no need to use one sided limit here because..'', not too sure what he is saying. I thought one sided limit means the special case when either $\lim_{x\to k^{+}}$ exists or $\lim_{x\to k^{-}}$ but not both. Am I missing something here?
+	
+	\item Show that $\sqrt{x}$ is a continuous function specially at $x=0$ (beware: it has one sided limit).
+	
+	\item Show that $|\sin{x}|$ is a continuous function specially at $x=0$ 
+	
+	
+\end{enumerate}
+
+\end{document}
