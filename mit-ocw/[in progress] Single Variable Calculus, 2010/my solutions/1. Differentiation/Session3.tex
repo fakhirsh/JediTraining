@@ -1,0 +1,44 @@
+\documentclass[]{article}
+
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{hyperref}
+\usepackage{color}
+\usepackage{soul}
+\usepackage{amsmath}
+
+
+\DeclareRobustCommand{\hlcyan}[1]{{\sethlcolor{cyan}\hl{#1}}}
+\DeclareRobustCommand{\hlgreen}[1]{{\sethlcolor{green}\hl{#1}}}
+\DeclareRobustCommand{\hlred}[1]{{\sethlcolor{red}\hl{#1}}}
+\DeclareRobustCommand{\hlyellow}[1]{{\sethlcolor{yellow}\hl{#1}}}
+\DeclareRobustCommand{\hlorange}[1]{{\sethlcolor{orange}\hl{#1}}}
+
+
+%opening
+\title{Session 3}
+\author{Fakhir}
+
+\begin{document}
+
+\maketitle
+
+\section*{Solutions}
+
+\begin{enumerate}
+	\item $f'(1) = -10+60 = 50$ \\~\\
+	The balance Feb will be more as compared to Jan because the rate of change i.e. balance difference per month is $+ve$.
+	\item $f'(10) = -100+60 = -40$ \\~\\
+	This shows that the balance in current month was less than the balance in the previous month. So no, the account balance does not continue to increase throughout the year.
+	\item The account balance will continue to increase as long as the change in balances during consecutive months remains $+ve$. Through trial and error we find: \\
+	$f'(5) = +10$ \\
+	$f'(6) = 0$ \\
+	and \\
+	$f'(7) = -10$ \\~\\
+	So the balance was greatest in the month of June. \\~\\
+	
+\end{enumerate}
+
+Tip from MiT solutions: Also plug-in some values for $t$ to check the actual account balance i.e $f(t)$ in the above solutions to verify the answer.
+
+\end{document}
