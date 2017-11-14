@@ -26,6 +26,8 @@ Hours spent (detail):
 1.25 h -- 12 Nov 2017 [1. Differentiation --> Session 7 - recitation + problems Done]
 1.90 h -- 12 Nov 2017 [1. Differentiation --> Session 8 - + problems Done]
 0.50 h -- 14 Nov 2017 [1. Differentiation --> Reviewed derivative of sin(x) [Geometric interpretation]]
+0.60 h -- 14 Nov 2017 [1. Differentiation --> Session 9, Clip 1,2,3 Done --> Still remaining: problem set + recitation]
+
 
 
 Total hours spent:  
