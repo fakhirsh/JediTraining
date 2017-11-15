@@ -1,0 +1,68 @@
+\documentclass[]{article}
+
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{hyperref}
+\usepackage{color}
+\usepackage{soul}
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+
+\DeclareRobustCommand{\hlcyan}[1]{{\sethlcolor{cyan}\hl{#1}}}
+\DeclareRobustCommand{\hlgreen}[1]{{\sethlcolor{green}\hl{#1}}}
+\DeclareRobustCommand{\hlred}[1]{{\sethlcolor{red}\hl{#1}}}
+\DeclareRobustCommand{\hlyellow}[1]{{\sethlcolor{yellow}\hl{#1}}}
+\DeclareRobustCommand{\hlorange}[1]{{\sethlcolor{orange}\hl{#1}}}
+
+
+%opening
+\title{Session 9}
+\author{Fakhir}
+
+\begin{document}
+
+\maketitle
+
+\section*{Solutions}
+
+\begin{enumerate}
+	\item \begin{enumerate}
+		\item For continuity $\lim_{x\to0^{-}} f(x) = \lim_{x\to0^{+}} f(x) = 6$.
+		\item First derivative of the first piece must be equal to the first derivative of the second piece at 0. This means:
+		$$ f'(0^{-}) == f'(0^{+})$$
+		$$ 2ax + b = 10x^{4}+12x^{3}+8x+5 $$
+		Putting $x = 0$ we get:
+		$$b = 5$$
+		\item \textit{(According to MiT solutions, no need to check this)} Second derivative of the first piece must be equal to the second derivative of the second piece at 0. This means:
+		$$ f''(0^{-}) == f''(0^{+})$$
+		$$ 2a = 40x^{3}+36x^{2}+8 $$
+		Putting $x = 0$ we get:
+		$$a = 4$$
+		
+		\hlred{MiT Solution says: The first derivative has to be equal on both sides. We do not need to check the second derivative. So $b=5$ and a can be any real number.}
+	\end{enumerate}
+	
+	\item \begin{enumerate}
+		\item For continuity $\lim_{x\to1^{-}} f(x) = \lim_{x\to1^{+}} f(x)$. So plugging in $x=1$ in both pieces we get:
+		
+		$$ a+b+6 = 20 $$
+		$$ a+b = 14 $$
+		\item First derivative of the first piece must be equal to the first derivative of the second piece at 1. This means:
+		$$ f'(1^{-}) == f'(1^{+})$$
+		$$ 2a+b = 10+12+8+5 $$
+		$$ 2a+b = 35 $$
+	
+		Solving these two simultaneous equations we get:
+		$$ 2a + (14-a) = 35 $$
+		$$ a + 14 = 35 $$
+		$$ a = 21 $$
+		$$ b = -7 $$
+	
+		Hence $a=21$ and $b=-7$.
+	
+	\end{enumerate}
+	
+\end{enumerate}
+
+\end{document}
