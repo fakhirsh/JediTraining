@@ -1,0 +1,60 @@
+# Single Variable Calculus, Fall 2010
+# https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/
+
+# Course Start: -->  Saturday 13th August, 2016, 9:26 PM GMT+5
+# Course End  : -->  
+
+# -----------
+
+* Hours spent
+** DONE Start the course
+    CLOSED: [2017-11-03 Fri 10:00]
+    CLOCK: [2017-11-03 Fri 09:50]--[2017-11-03 Fri 10:00]
+
+** Differentiation
+
+*** DONE Session 1
+    CLOSED: [2017-11-04 Sat 09:00]
+    CLOCK: [2017-11-04 Sat 07:00]--[2017-11-04 Sat 09:00]
+
+*** DONE Session 2
+    CLOSED: [2017-11-08 Wed 20:30]
+    CLOCK: [2017-11-08 Wed 18:00]--[2017-11-08 Wed 20:30]
+
+*** DONE Session 3
+    CLOSED: [2017-11-10 Fri 19:00]
+    CLOCK: [2017-11-10 Fri 18:00]--[2017-11-10 Fri 19:00]
+
+*** DONE Session 4
+    CLOSED: [2017-11-10 Fri 18:30]
+    CLOCK: [2017-11-10 Fri 18:00]--[2017-11-10 Fri 18:30]
+
+*** DONE Session 5
+    CLOSED: [2017-11-10 Fri 21:30]
+    CLOCK: [2017-11-10 Fri 19:00]--[2017-11-10 Fri 21:30]
+    
+*** DONE Session 6
+    CLOSED: [2017-11-10 Sun 15:15]
+    CLOCK: [2017-11-12 Sun 15:00]--[2017-11-12 Sun 15:15]
+
+*** DONE Session 7
+    CLOSED: [2017-11-12 Sun 16:15]
+    CLOCK: [2017-11-12 Sun 16:00]--[2017-11-12 Sun 16:15]
+    
+*** DONE Session 8
+    CLOSED: [2017-11-12 Sun 18:55]
+    CLOCK: [2017-11-12 Sun 17:00]--[2017-11-12 Sun 18:55]
+
+*** DONE Revision: Derivative of sin(x) [Geometric interpretation]
+    CLOSED: [2017-11-14 Tue 17:30]
+    CLOCK: [2017-11-14 Tue 17:00]--[2017-11-14 Tue 17:30]
+
+*** DONE Session 9
+    CLOSED: [2017-11-14 Tue 19:10]
+    CLOCK: [2017-11-14 Tue 18:00]--[2017-11-14 Tue 19:10]
+
+*** DONE Session 10
+    CLOSED: [2017-11-19 Sun 18:30]
+    CLOCK: [2017-11-19 Sun 18:00]--[2017-11-19 Sun 18:30]
+
+
