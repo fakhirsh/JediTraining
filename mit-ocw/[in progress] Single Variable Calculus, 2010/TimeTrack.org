@@ -54,7 +54,10 @@
     CLOCK: [2017-11-14 Tue 18:00]--[2017-11-14 Tue 19:10]
 
 *** DONE Session 10
-    CLOSED: [2017-11-19 Sun 18:30]
+    CLOSED: [2017-12-08 Fri 09:52]
     CLOCK: [2017-11-19 Sun 18:00]--[2017-11-19 Sun 18:30]
+
+*** TODO Session 11
+    CLOCK: [2017-12-8 Fri 10:00]--CLOCK: [2017-12-8 Fri 10:15]
 
 
